@@ -1,0 +1,109 @@
+Script started on 2022-06-07 13:14:12-07:00
+bash: cd: CS161B: No such file or directory
+bash: cd: CS161B: No such file or directory
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_06zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_06 $ ./a06
+Occupation Name          Employed  Automation     Percent %      Tier
+
+Administrative           23081     13849          60.0017%       Medium
+Agriculture              1060      594            56.0377%       Medium
+Arts Entertainment       2773      555            20.0144%       Low
+Business                 8067      1129           13.9953%       Low
+Computer                 4419      1635           36.9993%       Medium
+Construction             6813      3407           50.0073%       Medium
+Education                9427      1697           18.0015%       Low
+Engineering              2601      494            18.9927%       Low
+Facilities Care          5905      2893           48.9924%       Medium
+FoodService              13206     10697          81.0011%       High
+Health Practitioner      8752      2888           32.9982%       Medium
+Health Support           4316      1726           39.9907%       Medium
+Legal                    1283      488            38.0359%       Medium
+Maintenance              5654      1187           20.9940%       Low
+Management               9533      2193           23.0043%       Low
+Personal Care            6420      2183           34.0031%       Medium
+Production               9357      7592           81.1371%       High
+Protective               3506      1262           35.9954%       Medium
+Sales                    15748     6772           43.0023%       Medium
+Science                  1300      416            32.0000%       Medium
+Social Service           2571      566            22.0148%       Low
+Transportation           10274     5651           55.0029%       Medium
+
+Highest/Lowest Occupations Susceptible to Automation:
+Production has the highest share (81%)
+Business has the lowest shares (13%)
+
+
+#Highly susceptible: 2  (9%)
+#Medium susceptible: 13 (59%)
+#Low susceptible: 7     (31%)
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_06zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_06 $ ./a06
+Occupation Name          Employed  Automation     Percent %      Tier
+
+Administrative           23081     13849          60.0017%       Medium
+Agriculture              1060      594            56.0377%       Medium
+Arts Entertainment       2773      555            20.0144%       Low
+Business                 8067      1129           13.9953%       Low
+Computer                 4419      1635           36.9993%       Medium
+Construction             6813      3407           50.0073%       Medium
+Education                9427      1697           18.0015%       Low
+Engineering              2601      494            18.9927%       Low
+Facilities Care          5905      2893           48.9924%       Medium
+FoodService              13206     10697          81.0011%       High
+Health Practitioner      8752      2888           32.9982%       Medium
+Health Support           4316      1726           39.9907%       Medium
+Legal                    1283      488            38.0359%       Medium
+Maintenance              5654      1187           20.9940%       Low
+Management               9533      2193           23.0043%       Low
+Personal Care            6420      2183           34.0031%       Medium
+Production               9357      7592           81.1371%       High
+Protective               3506      1262           35.9954%       Medium
+Sales                    15748     6772           43.0023%       Medium
+Science                  1300      416            32.0000%       Medium
+Social Service           2571      566            22.0148%       Low
+Transportation           10274     5651           55.0029%       Medium
+
+Highest/Lowest Occupations Susceptible to Automation:
+Production has the highest share (81%)
+Business has the lowest shares (13%)
+
+
+#Highly susceptible: 2  (9%)
+#Medium susceptible: 13 (59%)
+#Low susceptible: 7     (31%)
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_06zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_06 $ ./a06
+Occupation Name          Employed  Automation     Percent %      Tier
+
+Administrative           23081     13849          60.0017%       Medium
+Agriculture              1060      594            56.0377%       Medium
+Arts Entertainment       2773      555            20.0144%       Low
+Business                 8067      1129           13.9953%       Low
+Computer                 4419      1635           36.9993%       Medium
+Construction             6813      3407           50.0073%       Medium
+Education                9427      1697           18.0015%       Low
+Engineering              2601      494            18.9927%       Low
+Facilities Care          5905      2893           48.9924%       Medium
+FoodService              13206     10697          81.0011%       High
+Health Practitioner      8752      2888           32.9982%       Medium
+Health Support           4316      1726           39.9907%       Medium
+Legal                    1283      488            38.0359%       Medium
+Maintenance              5654      1187           20.9940%       Low
+Management               9533      2193           23.0043%       Low
+Personal Care            6420      2183           34.0031%       Medium
+Production               9357      7592           81.1371%       High
+Protective               3506      1262           35.9954%       Medium
+Sales                    15748     6772           43.0023%       Medium
+Science                  1300      416            32.0000%       Medium
+Social Service           2571      566            22.0148%       Low
+Transportation           10274     5651           55.0029%       Medium
+
+Highest/Lowest Occupations Susceptible to Automation:
+Production has the highest share (81%)
+Business has the lowest shares (13%)
+
+
+#Highly susceptible: 2  (9%)
+#Medium susceptible: 13 (59%)
+#Low susceptible: 7     (31%)
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_06zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_06 $ exit
+exit
+
+Script done on 2022-06-07 13:14:45-07:00
