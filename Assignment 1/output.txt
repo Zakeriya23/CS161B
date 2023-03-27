@@ -1,0 +1,122 @@
+Script started on 2022-04-17 16:53:17-07:00
+bash: cd: CS161B: No such file or directory
+bash: cd: CS161B: No such file or directory
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01 $ ./a01
+****Welcome to Mint Mobile! ******
+
+Let's calculate your monthly bill! 
+
+S:  2GB $35/mo* 
+M:  4GB $50/mo* 
+L:  8GB $70/mo* 
+U:  Unlimited $70/mo* 
+
+*Overcharge charges $15 per GB
+
+Which plan are you on? (S/M/U) : c
+Invaild plan! Pick again: b
+Invaild plan! Pick again: s
+How many GB did you use last month? 2
+
+Plan charge: $35.00
+Total Cost: $35.00
+
+Thank you for choosing Mint Mobile.
+GoodBye!!
+
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01 $ M
+bash: M: command not found
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01 $ 0[K./a01
+****Welcome to Mint Mobile! ******
+
+Let's calculate your monthly bill! 
+
+S:  2GB $35/mo* 
+M:  4GB $50/mo* 
+L:  8GB $70/mo* 
+U:  Unlimited $70/mo* 
+
+*Overcharge charges $15 per GB
+
+Which plan are you on? (S/M/U) : M
+How many GB did you use last month? 0
+
+Plan charge: $50.00
+Total Cost: $50.00
+
+Thank you for choosing Mint Mobile.
+GoodBye!!
+
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01 $ ./a01
+****Welcome to Mint Mobile! ******
+
+Let's calculate your monthly bill! 
+
+S:  2GB $35/mo* 
+M:  4GB $50/mo* 
+L:  8GB $70/mo* 
+U:  Unlimited $70/mo* 
+
+*Overcharge charges $15 per GB
+
+Which plan are you on? (S/M/U) : L
+How many GB did you use last month? 10
+
+Plan charge: $70.00
+Overcharges: $30.00
+Total Cost: $100.00
+
+Ugrade to Unlimited and save $25.00 !!!
+
+Thank you for choosing Mint Mobile.
+GoodBye!!
+
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01 $ ./a01
+****Welcome to Mint Mobile! ******
+
+Let's calculate your monthly bill! 
+
+S:  2GB $35/mo* 
+M:  4GB $50/mo* 
+L:  8GB $70/mo* 
+U:  Unlimited $70/mo* 
+
+*Overcharge charges $15 per GB
+
+Which plan are you on? (S/M/U) : L 
+How many GB did you use last month? 8.1
+
+Plan charge: $70.00
+Overcharges: $15.00
+Total Cost: $85.00
+
+Ugrade to Unlimited and save $10.00 !!!
+
+Thank you for choosing Mint Mobile.
+GoodBye!!
+
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01 $ ./a01
+****Welcome to Mint Mobile! ******
+
+Let's calculate your monthly bill! 
+
+S:  2GB $35/mo* 
+M:  4GB $50/mo* 
+L:  8GB $70/mo* 
+U:  Unlimited $70/mo* 
+
+*Overcharge charges $15 per GB
+
+Which plan are you on? (S/M/U) : u
+How many GB did you use last month? 1000
+
+Plan charge: $75.00
+Total Cost: $75.00
+
+Thank you for choosing Mint Mobile.
+GoodBye!!
+
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_01 $ exit
+exit
+
+Script done on 2022-04-17 16:54:37-07:00
