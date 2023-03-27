@@ -1,0 +1,109 @@
+Script started on 2022-04-28 19:59:54-07:00
+bash: cd: CS161B: No such file or directory
+bash: cd: CS161B: No such file or directory
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_03zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_03 $ ./a03
+
+
+Welcome to my fitClub program!!
+The cost to become a member of the fitClub center is as follows:
+
+The membership fee per month for Sports Club is $20.00
+
+The membership fee per month for Ultra Sports Club is $30.00
+
+If the membership is bought and paid for 12 or more months,
+the discount is 10% off membership cost
+
+Personal training session are $10.00 per session
+
+If more than five personal training session are bought and paid for,
+the discount on each session is 20%
+
+Please pick one of the following options: 
+
+      (C/c) Calculate membership costs.
+      (Q/q) quit this program.
+>> >>c
+Would you prefer (S)ports or (U)ltra Sports Club: s
+How many months's of membership would you like? 13
+How many personal training sessions would you like? 6
+
+Your membership cost after 10% discount was applied: $234.00
+Your personal training cost for 6 session(s) is $48.00
+Your total cost is: $282.00
+
+Please pick one of the following options: 
+
+      (C/c) Calculate membership costs.
+      (Q/q) quit this program.
+>> >>c
+Would you prefer (S)ports or (U)ltra Sports Club: 6
+Would you prefer (S)ports or (U)ltra Sports Club: 2
+Would you prefer (S)ports or (U)ltra Sports Club: s
+How many months's of membership would you like? 500
+How many personal training sessions would you like? 0
+
+Your membership cost after 10% discount was applied: $9000.00
+Your personal training cost for 0 session(s) is $0.00
+Your total cost is: $9000.00
+
+Please pick one of the following options: 
+
+      (C/c) Calculate membership costs.
+      (Q/q) quit this program.
+>> >>q
+Thank you for using the Fitneess Club Program!! See you next time!
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_03zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_03 $ ./a03
+
+
+Welcome to my fitClub program!!
+The cost to become a member of the fitClub center is as follows:
+
+The membership fee per month for Sports Club is $20.00
+
+The membership fee per month for Ultra Sports Club is $30.00
+
+If the membership is bought and paid for 12 or more months,
+the discount is 10% off membership cost
+
+Personal training session are $10.00 per session
+
+If more than five personal training session are bought and paid for,
+the discount on each session is 20%
+
+Please pick one of the following options: 
+
+      (C/c) Calculate membership costs.
+      (Q/q) quit this program.
+>> >>c
+Would you prefer (S)ports or (U)ltra Sports Club: s
+How many months's of membership would you like? 20
+How many personal training sessions would you like? 5
+
+Your membership cost after 10% discount was applied: $360.00
+Your personal training cost for 5 session(s) is $50.00
+Your total cost is: $410.00
+
+Please pick one of the following options: 
+
+      (C/c) Calculate membership costs.
+      (Q/q) quit this program.
+>> >>c
+Would you prefer (S)ports or (U)ltra Sports Club: 4 4
+Would you prefer (S)ports or (U)ltra Sports Club: s
+How many months's of membership would you like? 2
+How many personal training sessions would you like? 2
+
+Your personal training cost for 2 session(s) is $20.00
+Your total cost is: $60.00
+
+Please pick one of the following options: 
+
+      (C/c) Calculate membership costs.
+      (Q/q) quit this program.
+>> >>q
+Thank you for using the Fitneess Club Program!! See you next time!
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_03zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_03 $ exit
+exit
+
+Script done on 2022-04-28 20:17:39-07:00
