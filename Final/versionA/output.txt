@@ -1,0 +1,67 @@
+Script started on 2022-06-14 20:59:59-07:00
+bash: cd: CS161B: No such file or directory
+bash: cd: CS161B: No such file or directory
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/final/versionAzakeriya.muhumed@vmcslinuxprod01:~/CS161B/final/versionA $ f[K./fonal[K[K[K[Kinal
+Welcome to my Citizen’s Database.
+List of citizen database!
+Gayathri;USA;22
+Stephanie;USA;27
+Priya;India;34
+Ahmed;Nigeria;52
+
+Enter your name: zakeriya  
+Enter your citizenship: usa
+Enter your age: 22
+Enter position number: 2
+After adding a person, the list is:
+
+List of citizen database!
+Gayathri;USA;22
+zakeriya;usa;22
+Stephanie;USA;27
+Priya;India;34
+Ahmed;Nigeria;52
+Thank you for using my Citizen Database!!]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/final/versionAzakeriya.muhumed@vmcslinuxprod01:~/CS161B/final/versionA $ ./final
+Welcome to my Citizen’s Database.
+List of citizen database!
+Gayathri;USA;22
+Stephanie;USA;27
+Priya;India;34
+Ahmed;Nigeria;52
+
+Enter your name: f bob
+Enter your citizenship: mexico
+Enter your age: 8
+Enter position number: 1
+After adding a person, the list is:
+
+List of citizen database!
+bob;mexico;8
+Gayathri;USA;22
+Stephanie;USA;27
+Priya;India;34
+Ahmed;Nigeria;52
+Thank you for using my Citizen Database!!]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/final/versionAzakeriya.muhumed@vmcslinuxprod01:~/CS161B/final/versionA $ ./final
+Welcome to my Citizen’s Database.
+List of citizen database!
+Gayathri;USA;22
+Stephanie;USA;27
+Priya;India;34
+Ahmed;Nigeria;52
+
+Enter your name: zakeriya          test
+Enter your citizenship: lik   likeley
+Enter your age: 4
+Enter position number: 4
+After adding a person, the list is:
+
+List of citizen database!
+Gayathri;USA;22
+Stephanie;USA;27
+Priya;India;34
+test;likeley;4
+Ahmed;Nigeria;52
+Thank you for using my Citizen Database!!]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/final/versionAzakeriya.muhumed@vmcslinuxprod01:~/CS161B/final/versionA $ exit
+exit
+
+Script done on 2022-06-14 21:01:02-07:00
