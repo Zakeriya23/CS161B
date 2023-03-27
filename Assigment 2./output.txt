@@ -1,0 +1,76 @@
+Script started on 2022-04-17 13:44:36-07:00
+bash: cd: CS161B: No such file or directory
+bash: cd: CS161B: No such file or directory
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_02zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_02 $ ./a02
+Welcome to my Interest Calculation program! 
+What would you like to do today?
+Pick an option from below:
+         1. Simple Interest
+         2. Compound Interest
+         3. Quit
+>>9
+Invalid Choice! Please choose 1-3.
+>>6
+Invalid Choice! Please choose 1-3.
+>>1
+Enter the Principal Amount: 300
+Enter the interest rate: 3.75
+Enter the time in years: 4
+
+Interest accrued: $45
+Total Accrued Amount (principal + interest): $345.00
+
+What would you like to do today?
+Pick an option from below:
+         1. Simple Interest
+         2. Compound Interest
+         3. Quit
+>>3
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_02zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_02 $ ./a02
+Welcome to my Interest Calculation program! 
+What would you like to do today?
+Pick an option from below:
+         1. Simple Interest
+         2. Compound Interest
+         3. Quit
+>>2
+Enter the Principal Amount: 10000
+Enter the interest rate: 3.875
+Enter the time in years: 7.5
+Enter the number of compounding period: 12
+
+Interest accrued: $3366.37
+Total Accrued Amount (principal + interest): $13366.37
+
+What would you like to do today?
+Pick an option from below:
+         1. Simple Interest
+         2. Compound Interest
+         3. Quit
+>>3
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_02zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_02 $ ./a02
+Welcome to my Interest Calculation program! 
+What would you like to do today?
+Pick an option from below:
+         1. Simple Interest
+         2. Compound Interest
+         3. Quit
+>>2
+Enter the Principal Amount: 9999    15000
+Enter the interest rate: 3.9999
+Enter the time in years: 40
+Enter the number of compounding period: 12
+
+Interest accrued: $59095.1
+Total Accrued Amount (principal + interest): $74095.11
+
+What would you like to do today?
+Pick an option from below:
+         1. Simple Interest
+         2. Compound Interest
+         3. Quit
+>>3
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_02zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_02 $ exit
+exit
+
+Script done on 2022-04-17 13:47:02-07:00
