@@ -1,0 +1,58 @@
+Script started on 2022-05-17 11:35:49-07:00
+bash: cd: CS161B: No such file or directory
+bash: cd: CS161B: No such file or directory
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/midtermzakeriya.muhumed@vmcslinuxprod01:~/CS161B/midterm $ ./m1
+Welcome to the FIFO Queue Program!
+
+Enter Option: p
+[8, -2, 3]
+
+Enter Option: -3 
+Integer: 3
+[8, -2]
+
+Enter Option: +
+
+Enter Option: q q
+GoodBye!!]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/midtermzakeriya.muhumed@vmcslinuxprod01:~/CS161B/midterm $ ./m1
+Welcome to the FIFO Queue Program!
+
+Enter Option: p
+[8, -2, 3]
+
+Enter Option: @
+
+Enter Option: -
+Integer: 3 -2
+[8]
+
+Enter Option: -
+Integer: 8
+[]
+
+Enter Option: -
+Integer: 4
+Stack is empty
+[]
+
+Enter Option: q
+GoodBye!!]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/midtermzakeriya.muhumed@vmcslinuxprod01:~/CS161B/midterm $ ./m1
+Welcome to the FIFO Queue Program!
+
+Enter Option: p
+[8, -2, 3]
+
+Enter Option: 8 -
+Integer: 8
+[]
+
+Enter Option: -
+Integer: 5
+Stack is empty
+[]
+
+Enter Option: q
+GoodBye!!]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/midtermzakeriya.muhumed@vmcslinuxprod01:~/CS161B/midterm $ exit
+exit
+
+Script done on 2022-05-17 11:37:26-07:00
