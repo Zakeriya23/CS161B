@@ -1,0 +1,125 @@
+Script started on 2022-05-26 21:58:44-07:00
+bash: cd: CS161B: No such file or directory
+bash: cd: CS161B: No such file or directory
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_05zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_05 $ ./a05
+Welcome to my Word Frequency Counter!!
+
+This frequency will count the number of occurrences of each word. The number of words in your list must be entered first followed by the list of words separated by space. These are the rules of this frequency counter!
+
+Enter the count of words first (as a whole number) and the list of words separated by space: 
+
+8 Hey Hi h Hey Priya How are tou     you Priya
+
+Your list before deletes and counts:
+Hey
+Hi
+Hey
+Priya
+How
+are
+you
+Priya
+
+The frequency counts and list with unique words are as below:
+Hey	2
+Hi	1
+Priya	2
+How	1
+are	1
+you	1
+
+Thank you for using my frequency counter! 
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_05zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_05 $ ./a05
+Welcome to my Word Frequency Counter!!
+
+This frequency will count the number of occurrences of each word. The number of words in your list must be entered first followed by the list of words separated by space. These are the rules of this frequency counter!
+
+Enter the count of words first (as a whole number) and the list of words separated by space: 
+
+4 test tez sttt test try
+
+Your list before deletes and counts:
+test
+testtt
+test
+try
+
+The frequency counts and list with unique words are as below:
+test	2
+testtt	1
+try	1
+
+Thank you for using my frequency counter! 
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_05zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_05 $ ./a05
+Welcome to my Word Frequency Counter!!
+
+This frequency will count the number of occurrences of each word. The number of words in your list must be entered first followed by the list of words separated by space. These are the rules of this frequency counter!
+
+Enter the count of words first (as a whole number) and the list of words separated by space: 
+
+3 b dog god dog
+
+Your list before deletes and counts:
+dog
+god
+dog
+
+The frequency counts and list with unique words are as below:
+dog	2
+god	1
+
+Thank you for using my frequency counter! 
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_05zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_05 $ ./a05
+Welcome to my Word Frequency Counter!!
+
+This frequency will count the number of occurrences of each word. The number of words in your list must be entered first followed by the list of words separated by space. These are the rules of this frequency counter!
+
+Enter the count of words first (as a whole number) and the list of words separated by space: 
+
+6 Hey My    my name is Zakeriya Muhumed
+
+Your list before deletes and counts:
+Hey
+my
+name
+is
+Zakeriya
+Muhumed
+
+The frequency counts and list with unique words are as below:
+Hey	1
+my	1
+name	1
+is	1
+Zakeriya	1
+Muhumed	1
+
+Thank you for using my frequency counter! 
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_05zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_05 $ ./ [Ka05
+Welcome to my Word Frequency Counter!!
+
+This frequency will count the number of occurrences of each word. The number of words in your list must be entered first followed by the list of words separated by space. These are the rules of this frequency counter!
+
+Enter the count of words first (as a whole number) and the list of words separated by space: 
+
+5 This is my lasyt   t  t test
+
+Your list before deletes and counts:
+This
+is
+my
+last
+test
+
+The frequency counts and list with unique words are as below:
+This	1
+is	1
+my	1
+last	1
+test	1
+
+Thank you for using my frequency counter! 
+]0;zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_05zakeriya.muhumed@vmcslinuxprod01:~/CS161B/assign_05 $ exit
+exit
+
+Script done on 2022-05-26 22:01:03-07:00
